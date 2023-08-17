@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Dixit</h1>
-<h3 align="center">I'm a second year undergraduate student from India who loves to code and solve complex physics problems</h3>
+<h3 align="center">I'm a third year undergraduate student from India who loves to code and solve complex physics problems</h3>
 
 - 🔭 I’m currently working on **creating a socket game for a Game Jam**
 
